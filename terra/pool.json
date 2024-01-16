@@ -1,5 +1,15 @@
 [
   {
+    "id": "terra12f794943f4rj68fljjhg6nn3ds6s4t4smey9gnuqqvjrjwe5ksds77z6ax",
+    "asset_ids": [
+      "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+      "terra1aa7stl3fytvave9xtcexgv0kne4k7ks068dcljkrfj37hy8q270sjadav8"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "terra1fqtq8pnaga3cjk4p5a4jag2cfrenkufcgn5kspwvkt2whlya40uqlyq2jt"
+  },
+  {
     "id": "terra12kvrk4thhg60usujss2u2ynhfgjv2kpxnyq528wvh0ae4f8cc6us79mnva",
     "asset_ids": [
       "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
@@ -558,6 +568,16 @@
     "dex": "Astroport",
     "type": "pcl",
     "lp_token_id": "terra19kfau8f0wy2uplexpeeum2epjmcw5j9rluw6v0g5jf69r9j0zm0sler5d3"
+  },
+  {
+    "id": "terra1xwxlsnnn5vk83ners662nxz98k5jlhshx04awgj0wlz8puq35ndstat30l",
+    "asset_ids": [
+      "terra1sq4uwmg6u0ktj73y3y6dslwdtq5rs9ejvp2h9jxkncg7hemhaz8skk02g2",
+      "uluna"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "terra1tsq4urhswync8pvttu6jlh2k7kvyk3gk5wfaq340gnlsemenku2q7p2p7y"
   },
   {
     "id": "terra1z2sjsu827pyd2hjudz49z0uk5lerae9t7vq2v5qu9z692n2cqx6q0fqe44",
@@ -2000,6 +2020,16 @@
     "lp_token_id": "terra1lg9nvqye8cf7kapa4adl0uyskzeq4px59evu5qqgu6erqdxt54wq52aunr"
   },
   {
+    "id": "terra15v3s0slldvltp2p5q98ndaq56utxyceunv2pag7ypmsdnuqp0ntqggjxx5",
+    "asset_ids": [
+      "terra18a2m7ghvfzuksqyswja685rl4cataemazyplk8qcjzm2vvs8u78q46dvh8",
+      "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "terra1vd6zr06u9ey9zpht2cchuvaj4ed9jvpg3xuwxxdxqum3928hv7equ9ctkr"
+  },
+  {
     "id": "terra15wyy45mhsu46kna4dj888uzg3yt84dgnnstrsymvyzfa98zvhk2sz3t6dk",
     "asset_ids": [
       "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz",
@@ -2168,6 +2198,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "terra1w4j2zjmam5c2cnclq4tr0v09dncw493y73fttf7hh9fgf3jpxx8szecyaw"
+  },
+  {
+    "id": "terra170p3ndrfl08eugfds0f7ccpmn7txtfj3awd3se63qwyhuchzkuzqsms430",
+    "asset_ids": [
+      "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
+      "uluna"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "terra1h47906nd2gzzszganvr5atgqm73q4rnu5ux80vejcfpu8c3lsursge97qq"
   },
   {
     "id": "terra1726l8xeyrgck4vqxqa6sgt73sx64mx05r0zlxfryu84snuqhnzpsu0fd90",
@@ -3358,6 +3398,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "terra17r64puqqln704cm3xqhssnczmuy7uk0a5s0g8fzlyq0qgeldxzsqg0a04m"
+  },
+  {
+    "id": "terra1f5jc62slp4phq297z3w3n39juw65u3hyz39qdn2xtehyk46taz3sr7zdl6",
+    "asset_ids": [
+      "terra19nu4q2y0xe3vza6ve5ymup33uzm049pnrqq5ddeuulmrg279t57qstcces",
+      "uluna"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "terra1773vet2ruvh2ag7p3ks2uqfxjtawrkrnetv2eg5z4rxh594zspkqruzudv"
   },
   {
     "id": "terra1f5p7qya30qxwpc6xcran92fqhtqj9ry3rk47y7mderpdagdxqnss4x6pgn",
@@ -4920,6 +4970,16 @@
     "lp_token_id": "terra1cn0rgp94se4m7r9yqszs86h5jsptmqjvfk4m8qd7susvhtnwn6qqgx7ne2"
   },
   {
+    "id": "terra1qtcy5xwsenhkspt52xv60tzpfl0k3ympyrud9g7yve2aut0u5v3qhj76j8",
+    "asset_ids": [
+      "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
+      "terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "terra1m45gwhcvz3uhja3xgm8w6dg8tclhgnktf9pzuy5jp89wwf592nhsfkuuy4"
+  },
+  {
     "id": "terra1qu2uc9q70flnj9fufgl90w7q0dehyy0pf5gt2drjhylrxjdyytvs46y2p8",
     "asset_ids": [
       "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
@@ -6448,6 +6508,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "terra1ua7uk7xvx89dg8tnr8k8smk5vermlaer50zsglmpx8plttaxvvtsem5fgy"
+  },
+  {
+    "id": "terra1zhw4starplt9psz870jzk6dkcgy9xx89g84vwd0ssqneatm8g76q30tar3",
+    "asset_ids": [
+      "terra18a2m7ghvfzuksqyswja685rl4cataemazyplk8qcjzm2vvs8u78q46dvh8",
+      "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "terra1sd8v2pqmhgcr9gyaxvdfkzrlkv2r9cze6uf9szwecxmee72t2ugq76gpyt"
   },
   {
     "id": "terra1zjfy562q4nw0fwhhp8hmck88td3trlj76wqhhkncal25qu4mck6sgpkau4",

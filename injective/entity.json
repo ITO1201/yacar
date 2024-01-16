@@ -68,6 +68,12 @@
     "twitter": "https://twitter.com/dojobotinj"
   },
   {
+    "name": "Dojoswap",
+    "website": "https://dojo.trading",
+    "telegram": "https://t.me/dojo_swap",
+    "twitter": "https://twitter.com/Dojo_Swap"
+  },
+  {
     "name": "DUDE",
     "website": "https://linktr.ee/dude_inj",
     "telegram": "https://t.me/dude_inj",
@@ -157,10 +163,20 @@
     "discord": " https://discord.gg/4rKDGfDh72"
   },
   {
+    "name": "injussy",
+    "telegram": "https://t.me/injussy",
+    "twitter": "https://twitter.com/injussy_"
+  },
+  {
     "name": "Karma",
     "website": "https://karmainj.com/",
     "telegram": "https://t.me/karmainj",
     "twitter": "https://x.com/KarmaInjective"
+  },
+  {
+    "name": "KAZEBOT",
+    "telegram": "https://t.me/KazebotINJ",
+    "twitter": "https://x.com/Kazebot_"
   },
   {
     "name": "Kinja",
@@ -170,9 +186,9 @@
   },
   {
     "name": "Kira",
-    "website": "https://twitter.com/KiraOnINJ",
+    "website": "https://kira.cat",
     "telegram": "https://t.me/KiraOnInjective",
-    "twitter": "https://twitter.com/KiraOnINJ",
+    "twitter": "https://x.com/kiraoninjective",
     "discord": "https://discord.gg/ba5QPYrxHT"
   },
   {
@@ -229,6 +245,17 @@
     "twitter": "https://twitter.com/pikachuinj"
   },
   {
+    "name": "PunksDAO",
+    "twitter": "https://twitter.com/Injective_Punks",
+    "discord": "https://discord.gg/pt4wwUU3qN"
+  },
+  {
+    "name": "Ramen",
+    "website": "https://injectiveramen.com/",
+    "telegram": "https://t.me/InjectiveRamen",
+    "twitter": "https://twitter.com/InjectiveRAMEN"
+  },
+  {
     "name": "Rooster Ninja",
     "website": "https://roosterninja.xyz",
     "telegram": "https://t.me/roosterninja",
@@ -276,6 +303,12 @@
     "name": "TRUFFLE",
     "telegram": "https://t.me/TruffleOnINJ",
     "twitter": "https://twitter.com/TruffleOnINJ"
+  },
+  {
+    "name": "Waifu",
+    "website": "https://waifuinj.com/",
+    "telegram": "https://t.me/waifuinj",
+    "twitter": "https://twitter.com/WaifuINJ"
   },
   {
     "name": "WGMI",
